@@ -1,0 +1,15 @@
+{
+  "name": "generator-salvodon",
+  "version": "1.0.0",
+  "description": "Custom Yeoman Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "yeoman",
+    "generator"
+  ],
+  "author": "Eddy Salvodon",
+  "license": "MIT"
+}
